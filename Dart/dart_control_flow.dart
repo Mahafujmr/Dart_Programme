@@ -25,15 +25,15 @@ main() {
   print("");
 
 
-
+   /// If else condition
   /*
-  // if-else - syntax
-  
+  if (condition) {
+  // block of code to be executed if the condition is true
+} else {
+  // block of code to be executed if the condition is false
+}
    */
 
-
-
-   /// If else condition
   int myage = 21;
   // my age 25 ar boro hola job dibo
   //jodi myage boro 25
