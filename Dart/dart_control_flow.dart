@@ -10,7 +10,7 @@
 /// 4) Switch Case Statement
 
 main() {
-
+  /// if - conditon
   /*
   // if statement - syntax
   if ( condition ){
