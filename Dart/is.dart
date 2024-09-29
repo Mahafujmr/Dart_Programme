@@ -12,8 +12,4 @@ void main(){
   }
 
 
-  int call = 88;
-  if(call>77){
-    print('this number is true');
-  }
 }
