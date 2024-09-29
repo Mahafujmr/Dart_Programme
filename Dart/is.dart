@@ -10,4 +10,10 @@ void main(){
   }else{
     print('this number is not true');
   }
+
+
+  int call = 88;
+  if(call>77){
+    print('this number is true');
+  }
 }
