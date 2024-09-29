@@ -15,7 +15,7 @@ main() {
   // if statement - syntax
   if ( condition ){
   // body of if statement
-}
+  }
    */
 
   var num = 5;
@@ -96,3 +96,12 @@ if(age>26){
 
 /// ()- ar moddhe conditon likhte hoi ()- parentheses
 /// {}- ar moddhe statement likhte hoi {}-curly Brackets
+
+/*
+/*
+  // if statement - syntax
+  if ( condition ){
+  // body of if statement
+  }
+   */
+ */
