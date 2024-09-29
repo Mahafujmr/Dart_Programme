@@ -38,7 +38,7 @@ main(){
   /// boolean - called bool = true/false
   /// return value- true or false
   bool isAccountHolderBangladeshi= true;
-  bool isAccountHolderBangladeshi = false;
+  bool isAccountHolderBangladeshi1 = false;
 
             // dynamic ///
   /// any data type support - dynamic

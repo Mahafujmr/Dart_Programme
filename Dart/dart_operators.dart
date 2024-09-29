@@ -117,8 +117,8 @@ main() {
   /// == is equal to (a==b, 40==30)
   /// !=  not equal to ( a!=b, 50!=40)
 
-  var m =20;
-  var n =30;
+  var m1 =20;
+  var n2 =30;
   print(m>n);
   print(m<n);
   print(m>=n);
