@@ -10,6 +10,9 @@ void main(){
   }else{
     print('this number is not true');
   }
-
+int call =99;
+  if(call>33){
+    print('this is tuhin');
+  }
 
 }
